@@ -1,5 +1,5 @@
 ## Refined Rag - Private Document Chat
-![Refined Rag Demo](./RefinedRAG-Precision-Retrieval-for-Improved-Responses/Demo.jpeg) 
+![Refined Rag Demo](./Demo.jpeg) 
 
 Refined Rag allows you to privately query and interact with your own documents in natural language. Run everything locally, ensure data privacy, and gain valuable insights from your files—no cloud dependency required.
 
@@ -89,7 +89,7 @@ pip install -r requirements.txt
 - Splits documents into chunks using semantic and character-based methods.
 - Stores embeddings in Qdrant, a vector database.
 
-![Refined Rag Demo](./RefinedRAG-Precision-Retrieval-for-Improved-Responses/images/In.jpeg)
+![Refined Rag Demo](./In.jpeg)
 
 ### **Retriever**
 - Given a query, locates and re-ranks relevant chunks.
@@ -101,7 +101,7 @@ pip install -r requirements.txt
 - Orchestrates between the retriever and the LLM.
 - Provides context-driven, summarized answers to user queries.
 
-![Refined Rag Demo](./RefinedRAG-Precision-Retrieval-for-Improved-Responses/qa.jpeg)
+![Refined Rag Demo](./qa.jpeg)
 
 ---
 
