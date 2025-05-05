@@ -1,5 +1,5 @@
 ## Refined Rag - Private Document Chat
-![Refined Rag Demo](./RefinedRAG-Precision-Retrieval-for-Improved-Responses/Demo.jpeg)
+![Refined Rag Demo](./RefinedRAG-Precision-Retrieval-for-Improved-Responses/Demo.jpeg) 
 
 Refined Rag allows you to privately query and interact with your own documents in natural language. Run everything locally, ensure data privacy, and gain valuable insights from your files—no cloud dependency required.
 
