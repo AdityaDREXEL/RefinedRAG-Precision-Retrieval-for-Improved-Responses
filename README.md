@@ -6,7 +6,6 @@ Refined Rag allows you to privately query and interact with your own documents i
 ---
 
 ## Authors
-- **Samriddhi Singh**
 - **Aditya Sinha**
 
 ---
